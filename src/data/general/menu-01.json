@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "text": "Music",
+        "path": "/product"
+    },
+    {
+        "id": 2,
+        "text": "Stake",
+        "path": "/stake"
+    },
+    {
+        "id": 3,
+        "text": "Artists",
+        "path": "/author"
+    },
+    {
+        "id": 4,
+        "text": "$CAT",
+        "path": "/token"
+    },
+    {
+        "id": 5,
+        "text": "About",
+        "path": "/about"
+    }
+
+
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "62f4dd8296ccc7b54a3dc81e",
+        "name": "Robbie Stewart",
+        "slug": "/author/62f4dd8296ccc7b54a3dc81e",
+        "image": {
+            "src": "/images/avatars/b2e0bab4d0fd3aacc65335b00.jpg"
+        },
+        "total_sale": 7,
+        "top_since": "1 day",
+        "isVarified": false
+    },
+    {
+        "id": "62fc385baa064f99da4e403c",
+        "name": "Seito Solano",
+        "slug": "/author/62fc385baa064f99da4e403c",
+        "image": {
+            "src": "/images/avatars/default.jpg"
+        },
+        "total_sale": 1,
+        "top_since": "1 day",
+        "isVarified": false
+    }
+]

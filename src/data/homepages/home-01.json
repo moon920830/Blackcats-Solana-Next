@@ -1,0 +1,122 @@
+{
+    "title": "home-01",
+    "content": [
+        {
+            "section": "hero-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Discover Digital Art, Collect and Sell Your Specific NFTs."
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Partner with one of the world's largest retailers to showcase your brand and products."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Get Started",
+                    "path": "/",
+                    "auth": false,
+                    "type": 256
+                },
+                {
+                    "id": 2,
+                    "color": "primary-alta",
+                    "content": "Create",
+                    "path": "/create",
+                    "auth": true,
+                    "type": 1
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/slider/slider-1.png"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Create and sell your NFTs"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Add your NFT's",
+                    "path": "/create",
+                    "subtitle": "Step-01",
+                    "description": "We've made the template fully responsive, so it looks great on all devices: desktop, tablets and.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ],                    
+                    "auth": true,
+                    "type": 1
+                },
+                {
+                    "id": 2,
+                    "title": "Sell Your NFT's",
+                    "path": "/author",
+                    "subtitle": "Step-02",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth NFT's.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ],
+                    "auth": true,
+                    "type": 3
+                },
+                {
+                    "id": 3,
+                    "title": "Buy the NFT's",
+                    "path": "/product",
+                    "subtitle": "Step-03",
+                    "description": "Powerful features and inclusions, which makes Blackcat standout, easily customizable and scalable.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ],
+                    "auth": false,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "section": "live-explore-section",
+            "section_title": {
+                "title": "Live Bidding"
+            }
+        },
+        {
+            "section": "newest-section",
+            "section_title": {
+                "title": "Newest Tracks"
+            }
+        },
+        {
+            "section": "top-sller-section",
+            "section_title": {
+                "title": "Top Artists in"
+            }
+        },
+        {
+            "section": "explore-product-section",
+            "section_title": {
+                "title": "Explore Tracks"
+            }
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Top Collection"
+            }
+        }
+    ]
+}
